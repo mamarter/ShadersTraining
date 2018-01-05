@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/Silueta.shader">
+    <Files>
+      <File FileName="Assets/Shaders/StandardDiffuse.shader" Line="10" Column="13" />
+      <File FileName="Temp/Compiled-CookbookShaders-StandardDiffuse.shader" Line="1" Column="1" />
+      <File FileName="Temp/Compiled-StandardDiffuse.shader" Line="12" Column="2" />
+      <File FileName="Assets/Shaders/Transparent.shader" Line="20" Column="39" />
+      <File FileName="Assets/Shaders/Silueta.shader" Line="27" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

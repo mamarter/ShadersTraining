@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_ShadersTest.1452353452.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="FisheyeEffect.cs" t="Include" />
+          <e p="Radius.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="Chapter3" t="Include">
+            <e p="LambertLighting.shader" t="Include" />
+            <e p="ToonShader.shader" t="Include" />
+          </e>
+          <e p="Chapters1&amp;2" t="Include">
+            <e p="Fisheye.shader" t="Include" />
+            <e p="FixedFunction.shader" t="Include" />
+            <e p="RadiusShader.shader" t="Include" />
+            <e p="Silueta.shader" t="Include" />
+            <e p="StandardDiffuse.shader" t="Include" />
+            <e p="TextureBlend.shader" t="Include" />
+            <e p="Transparent.shader" t="Include" />
+          </e>
+        </e>
+        <e p="WarZone" t="Include">
+          <e p="CrossPlatformInput" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="CrossPlatformInputManager.cs" t="Include" />
+              <e p="PlatformSpecific" t="Include">
+                <e p="MobileInput.cs" t="Include" />
+                <e p="StandaloneInput.cs" t="Include" />
+              </e>
+              <e p="VirtualInput.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="DestroyObject.cs" t="Include" />
+            <e p="GunController.cs" t="Include" />
+            <e p="TurretController.cs" t="Include" />
+          </e>
+          <e p="Vehicles" t="Include">
+            <e p="Car" t="Include">
+              <e p="CarGuidelines.txt" t="Include" />
+              <e p="Scripts" t="Include">
+                <e p="CarAudio.cs" t="Include" />
+                <e p="CarController.cs" t="Include" />
+                <e p="CarUserControl.cs" t="Include" />
+                <e p="WheelEffects.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ShadersTest.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+  <component name="RiderRiderContentModelStore">
+    <excludedPaths />
+  </component>
+</project>
